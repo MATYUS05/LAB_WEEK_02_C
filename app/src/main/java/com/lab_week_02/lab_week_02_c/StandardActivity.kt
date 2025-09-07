@@ -29,3 +29,5 @@ class StandardActivity : AppCompatActivity() {
         Log.d(DEBUG, "onNewIntent")
     }
 }
+
+// Saya tambahin ini supaya bisa commit message modul
